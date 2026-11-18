@@ -1,0 +1,9 @@
+{
+  "pin": "",
+  "obs_password": "",
+  "port": 8765,
+  "obs_host": "127.0.0.1",
+  "obs_port": 4455,
+  "audio_sources": [],
+  "zoom_return_to_previous_app": true
+}
